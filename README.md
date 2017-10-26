@@ -55,3 +55,7 @@ Add some Free api which can be used for any Projects.
 
 - [TimeZoneDB](https://timezonedb.com/)
   TimeZoneDB provides free time zone database for cities of the world.
+  
+- [The Guardian API](http://open-platform.theguardian.com/)
+  Access over 1.9 million pieces of content
+
