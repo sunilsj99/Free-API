@@ -1,6 +1,7 @@
 # Free-API
 Add some Free api which can be used for any Projects.
 
+
 ## A
 [API for google maps](https://developers.google.com/maps/documentation/javascript/)
 This api is used for accessing google maps in your projects.
@@ -12,9 +13,6 @@ You can use this API to access Clash Royale API endpoints, which can get informa
 ## E
 [Eventbrite](https://www.eventbrite.com/developer/v3/)
 The Eventbrite API is the best way to integrate and extend Eventbrite for your event or organising needs.
-
-[ExaVault](https://www.exavault.com/developer/api-docs)
-ExaVault's API allows you to incorporate ExaVault's suite of file transfer and user management tools into your own application. Check out their documentation for more details.
 
 ## G
 [GuardPost Api](https://documentation.mailgun.com/en/latest/api-email-validation.html)
@@ -41,9 +39,6 @@ API for building apps for Slack.
 
 [Soundcloud](https://developers.soundcloud.com/docs/api/guide)
 Using the SoundCloud API, you can build applications that take sound on the web to the next level.
-
-[Spotify Web](https://developer.spotify.com/web-api/)
-Let’s you search and lookup metadata about artists, tracks and albums.
 
 [Spotify](https://developer.spotify.com/web-api/)
 Fetch data to your application from the Spotify music catalog and manage user’s playlists and saved music.
