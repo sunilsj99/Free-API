@@ -32,8 +32,15 @@ Let’s you search and lookup metadata about artists, tracks and albums.
 [New York Times API](https://developer.nytimes.com/)
 This API allows to recieve json responses containing recent world news filterable by several news attributes. Refer to the documentation for further details.
 
+[Twitter](https://developer.twitter.com/)
+Publish and analyze Tweets, optimize ads, and create unique customer experiences.
+
+[YouTube](https://developers.google.com/youtube/)
+Add YouTube functionality to your sites and apps.
+
 [pokéapi](https://pokeapi.co/)
 This website provides a RESTful API interface to highly detailed objects built from thousands of lines of data related to Pokémon.
 
 [CR-API](https://docs.cr-api.com/)
 You can use this API to access Clash Royale API endpoints, which can get information about Clash Royale. At the moment, you can access profile and clan data.
+
