@@ -34,3 +34,6 @@ This API allows to recieve json responses containing recent world news filterabl
 
 [Twitter](https://developer.twitter.com/)
 Publish and analyze Tweets, optimize ads, and create unique customer experiences.
+
+[YouTube](https://developers.google.com/youtube/)
+Add YouTube functionality to your sites and apps.
