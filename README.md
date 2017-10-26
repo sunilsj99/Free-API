@@ -23,5 +23,11 @@ The Eventbrite API is the best way to integrate and extend Eventbrite for your e
 [Ticketmaster](https://developer.ticketmaster.com/products-and-docs/apis/getting-started/)
 Search and get events everywhere in the world from Ticketmaster, TicketWeb, Universe, FrontGate, Ticketmaster Resale (TMR).
 
+[ImgFlip API](https://api.imgflip.com/)
+ImgFlip API revolves around the most popular memes in the current internet world. It can be used for a project that works with memes or jokes in general and could make for an entertaining app for users who like memes.  
+
+[Spotify Web](https://developer.spotify.com/web-api/)
+Let’s you search and lookup metadata about artists, tracks and albums.
+
 [New York Times API](https://developer.nytimes.com/)
 This API allows to recieve json responses containing recent world news filterable by several news attributes. Refer to the documentation for further details.
