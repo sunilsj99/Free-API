@@ -55,3 +55,6 @@ Add some Free api which can be used for any Projects.
 
 - [TimeZoneDB](https://timezonedb.com/)
   TimeZoneDB provides free time zone database for cities of the world.
+  
+- [Google Translate API](https://cloud.google.com/translate/docs/)
+  can dynamically translate text between thousands of language pairs.
