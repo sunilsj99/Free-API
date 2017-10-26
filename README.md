@@ -46,3 +46,6 @@ You can use this API to access Clash Royale API endpoints, which can get informa
 
 [XKCD](https://xkcd.com/json.html)
 API for retrieving metadata on the popular webcomic [XKCD](https://xkcd.com/)
+
+[Slack](https://api.slack.com/)
+API for building apps for Slack.
