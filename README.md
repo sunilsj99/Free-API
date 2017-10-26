@@ -49,3 +49,6 @@ API for retrieving metadata on the popular webcomic [XKCD](https://xkcd.com/)
 
 [Slack](https://api.slack.com/)
 API for building apps for Slack.
+
+[Open Weather Map](https://openweathermap.org/api)
+Access current weather data for any location including over 200,000 cities
