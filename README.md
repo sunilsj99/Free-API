@@ -29,7 +29,6 @@ ImgFlip API revolves around the most popular memes in the current internet world
 [MusicBrainz](https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2)
 The MusicBrainz database contains a huge amount of music metadata, which is maintained by the MusicBrainz community. Find information about artists, albums, tracks and labels. Mash the data with your web app, media player, CD ripper, tagger or other applications requiring music metadata. 
 
-
 [Spotify Web](https://developer.spotify.com/web-api/)
 Let’s you search and lookup metadata about artists, tracks and albums.
 
@@ -38,3 +37,13 @@ This API allows to recieve json responses containing recent world news filterabl
 
 [Twitter](https://developer.twitter.com/)
 Publish and analyze Tweets, optimize ads, and create unique customer experiences.
+
+[YouTube](https://developers.google.com/youtube/)
+Add YouTube functionality to your sites and apps.
+
+[pokéapi](https://pokeapi.co/)
+This website provides a RESTful API interface to highly detailed objects built from thousands of lines of data related to Pokémon.
+
+[CR-API](https://docs.cr-api.com/)
+You can use this API to access Clash Royale API endpoints, which can get information about Clash Royale. At the moment, you can access profile and clan data.
+
