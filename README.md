@@ -2,8 +2,8 @@
 Add some Free api which can be used for any Projects.
 
 
-#API FOR GOOGLE MAPS
-https://developers.google.com/maps/documentation/javascript/
+[API for google maps](https://developers.google.com/maps/documentation/javascript/)
+This api is used for accessing google maps in your projects.
 
 [GuardPost Api](https://documentation.mailgun.com/en/latest/api-email-validation.html)
 This Api is used for Email Validation which is a problem that every developer have faced. this api is brought by Mailgun and can be used by creating account.Check out their documentation for more details.
