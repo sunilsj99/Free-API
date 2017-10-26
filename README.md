@@ -2,8 +2,8 @@
 Add some Free api which can be used for any Projects.
 
 
-#API FOR GOOGLE MAPS
-https://developers.google.com/maps/documentation/javascript/
+[API for google maps](https://developers.google.com/maps/documentation/javascript/)
+This api is used for accessing google maps in your projects.
 
 [GuardPost Api](https://documentation.mailgun.com/en/latest/api-email-validation.html)
 This Api is used for Email Validation which is a problem that every developer have faced. this api is brought by Mailgun and can be used by creating account.Check out their documentation for more details.
@@ -13,3 +13,10 @@ ExaVault's API allows you to incorporate ExaVault's suite of file transfer and u
 
 [ImgFlip API](https://api.imgflip.com/)
 ImgFlip API revolves around the most popular memes in the current internet world. It can be used for a project that works with memes or jokes in general and could make for an entertaining app for users who like memes.  
+
+[Spotify Web](https://developer.spotify.com/web-api/)
+Let’s you search and lookup metadata about artists, tracks and albums.
+
+[New York Times API](https://developer.nytimes.com/)
+This API allows to recieve json responses containing recent world news filterable by several news attributes. Refer to the documentation for further details.
+
