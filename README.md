@@ -31,3 +31,6 @@ Let’s you search and lookup metadata about artists, tracks and albums.
 
 [New York Times API](https://developer.nytimes.com/)
 This API allows to recieve json responses containing recent world news filterable by several news attributes. Refer to the documentation for further details.
+
+[Twitter](https://developer.twitter.com/)
+Publish and analyze Tweets, optimize ads, and create unique customer experiences.
