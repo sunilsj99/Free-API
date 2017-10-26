@@ -52,3 +52,6 @@ Add some Free api which can be used for any Projects.
 
 - [Open Weather Map](https://openweathermap.org/api)
   Access current weather data for any location including over 200,000 cities
+
+- [TimeZoneDB](https://timezonedb.com/)
+  TimeZoneDB provides free time zone database for cities of the world.
