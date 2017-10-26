@@ -11,5 +11,9 @@ This Api is used for Email Validation which is a problem that every developer ha
 [ExaVault](https://www.exavault.com/developer/api-docs)
 ExaVault's API allows you to incorporate ExaVault's suite of file transfer and user management tools into your own application. Check out their documentation for more details.
 
+[Spotify Web](https://developer.spotify.com/web-api/)
+Let’s you search and lookup metadata about artists, tracks and albums.
+
 [New York Times API](https://developer.nytimes.com/)
 This API allows to recieve json responses containing recent world news filterable by several news attributes. Refer to the documentation for further details.
+
