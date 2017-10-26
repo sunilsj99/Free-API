@@ -2,53 +2,59 @@
 Add some Free api which can be used for any Projects.
 
 
-- [API for google maps](https://developers.google.com/maps/documentation/javascript/)
-  This api is used for accessing google maps in your projects.
+## A
+[API for google maps](https://developers.google.com/maps/documentation/javascript/)
+This api is used for accessing google maps in your projects.
 
-- [GuardPost Api](https://documentation.mailgun.com/en/latest/api-email-validation.html)
-  This Api is used for Email Validation which is a problem that every developer have faced. this api is brought by Mailgun and can be    used by creating account.Check out their documentation for more details.
+## C
+[CR-API](https://docs.cr-api.com/)
+You can use this API to access Clash Royale API endpoints, which can get information about Clash Royale. At the moment, you can access profile and clan data.
 
-- [ExaVault](https://www.exavault.com/developer/api-docs)
-  ExaVault's API allows you to incorporate ExaVault's suite of file transfer and user management tools into your own application. Check   out their documentation for more details.
+## E
+[Eventbrite](https://www.eventbrite.com/developer/v3/)
+The Eventbrite API is the best way to integrate and extend Eventbrite for your event or organising needs.
 
-- [Soundcloud](https://developers.soundcloud.com/docs/api/guide)
-  Using the SoundCloud API, you can build applications that take sound on the web to the next level.
+## G
+[GuardPost Api](https://documentation.mailgun.com/en/latest/api-email-validation.html)
+This Api is used for Email Validation which is a problem that every developer have faced. this api is brought by Mailgun and can be used by creating account.Check out their documentation for more details.
 
-- [Spotify](https://developer.spotify.com/web-api/)
-  Fetch data to your application from the Spotify music catalog and manage user’s playlists and saved music.
+## I
+[ImgFlip API](https://api.imgflip.com/) ImgFlip API revolves around the most popular memes in the current internet world. It can be used for a project that works with memes or jokes in general and could make for an entertaining app for users who like memes.
 
-- [Eventbrite](https://www.eventbrite.com/developer/v3/)
-  The Eventbrite API is the best way to integrate and extend Eventbrite for your event or organising needs.
+## N
+[New York Times API](https://developer.nytimes.com/)
+This API allows to recieve json responses containing recent world news filterable by several news attributes. Refer to the documentation for further details.
 
-- [Ticketmaster](https://developer.ticketmaster.com/products-and-docs/apis/getting-started/)
-  Search and get events everywhere in the world from Ticketmaster, TicketWeb, Universe, FrontGate, Ticketmaster Resale (TMR).
+## O
+[Open Weather Map](https://openweathermap.org/api)
+Access current weather data for any location including over 200,000 cities
 
-- [ImgFlip API](https://api.imgflip.com/)
-  ImgFlip API revolves around the most popular memes in the current internet world. It can be used for a project that works with memes     or jokes in general and could make for an entertaining app for users who like memes.  
+## P
+[Pokéapi](https://pokeapi.co/)
+This website provides a RESTful API interface to highly detailed objects built from thousands of lines of data related to Pokémon.
 
-- [Spotify Web](https://developer.spotify.com/web-api/)
-  Let’s you search and lookup metadata about artists, tracks and albums.
+## S
+[Slack](https://api.slack.com/)
+API for building apps for Slack.
 
-- [New York Times API](https://developer.nytimes.com/)
-  This API allows to recieve json responses containing recent world news filterable by several news attributes. Refer to the           documentation for further details.
+[Soundcloud](https://developers.soundcloud.com/docs/api/guide)
+Using the SoundCloud API, you can build applications that take sound on the web to the next level.
 
-- [Twitter](https://developer.twitter.com/)
-  Publish and analyze Tweets, optimize ads, and create unique customer experiences.
+[Spotify](https://developer.spotify.com/web-api/)
+Fetch data to your application from the Spotify music catalog and manage user’s playlists and saved music.
 
-- [YouTube](https://developers.google.com/youtube/)
-  Add YouTube functionality to your sites and apps.
+## T
+[Ticketmaster](https://developer.ticketmaster.com/products-and-docs/apis/getting-started/)
+Search and get events everywhere in the world from Ticketmaster, TicketWeb, Universe, FrontGate, Ticketmaster Resale (TMR).
 
-- [pokéapi](https://pokeapi.co/)
-  This website provides a RESTful API interface to highly detailed objects built from thousands of lines of data related to Pokémon.
+[Twitter](https://developer.twitter.com/)
+Publish and analyze Tweets, optimize ads, and create unique customer experiences.
 
-- [CR-API](https://docs.cr-api.com/)
-  You can use this API to access Clash Royale API endpoints, which can get information about Clash Royale. At the moment, you can access   profile and clan data.
+## X
+[XKCD](https://xkcd.com/json.html)
+API for retrieving metadata on the popular webcomic [XKCD](https://xkcd.com/)
 
-- [XKCD](https://xkcd.com/json.html)
-  API for retrieving metadata on the popular webcomic [XKCD](https://xkcd.com/)
 
-- [Slack](https://api.slack.com/)
-  API for building apps for Slack.
-
-- [Open Weather Map](https://openweathermap.org/api)
-  Access current weather data for any location including over 200,000 cities
+## Y
+[YouTube](https://developers.google.com/youtube/)
+Add YouTube functionality to your sites and apps.
