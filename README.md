@@ -55,3 +55,7 @@ Add some Free api which can be used for any Projects.
 
 - [TimeZoneDB](https://timezonedb.com/)
   TimeZoneDB provides free time zone database for cities of the world.
+  
+- [PubNub](https://www.pubnub.com/docs)
+  PubNub is a publisher/subscriber implementation as a service. Integrates using 70+ SDKs for the most popular languages and frameworks,
+  free tier available.
