@@ -59,3 +59,15 @@ Add some Free api which can be used for any Projects.
 - [PubNub](https://www.pubnub.com/docs)
   PubNub is a publisher/subscriber implementation as a service. Integrates using 70+ SDKs for the most popular languages and frameworks,
   free tier available.
+
+- [The Guardian API](http://open-platform.theguardian.com/)
+  Access over 1.9 million pieces of content
+  
+- [Google Translate API](https://cloud.google.com/translate/docs/)
+  can dynamically translate text between thousands of language pairs.
+  
+- [Google Visualization API](https://developers.google.com/chart/interactive/docs/reference)
+ lets you access structured data and visualize that data using JavaScript in your web pages
+
+
+
