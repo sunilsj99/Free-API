@@ -55,3 +55,6 @@ Add some Free api which can be used for any Projects.
 
 - [TimeZoneDB](https://timezonedb.com/)
   TimeZoneDB provides free time zone database for cities of the world.
+  
+- [Google Visualization API](https://developers.google.com/chart/interactive/docs/reference)
+ lets you access structured data and visualize that data using JavaScript in your web pages
