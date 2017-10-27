@@ -56,9 +56,13 @@ Add some Free api which can be used for any Projects.
 - [TimeZoneDB](https://timezonedb.com/)
   TimeZoneDB provides free time zone database for cities of the world.
   
+- [The Guardian API](http://open-platform.theguardian.com/)
+  Access over 1.9 million pieces of content
+  
 - [Google Translate API](https://cloud.google.com/translate/docs/)
   can dynamically translate text between thousands of language pairs.
   
 - [Google Visualization API](https://developers.google.com/chart/interactive/docs/reference)
  lets you access structured data and visualize that data using JavaScript in your web pages
+
 
