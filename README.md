@@ -72,3 +72,6 @@ Add some Free api which can be used for any Projects.
 
 - [Imgur API](https://apidocs.imgur.com/)
 Lets you access a any and all of the images stored on imgur
+
+- [Last.fm](http://www.last.fm/api)
+The Last.fm API gives users the ability to build programs using Last.fm data, whether on the web, the desktop or mobile devices.
